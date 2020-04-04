@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="PasswordET" type="id" />
+    <item name="EmailET" type="id" />
+    <item name="Signbtn" type="id" />
+    <item name="Okbtn" type="id" />
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545726299512",
+    "firebase_url": "https://gfbauth-40767.firebaseio.com",
+    "project_id": "gfbauth-40767",
+    "storage_bucket": "gfbauth-40767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545726299512:android:75c968508789cd744fdc8d",
+        "android_client_info": {
+          "package_name": "com.noshairx.gfbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545726299512-fsq7gpv6c4s1vbbs3o60hcevbq1q42d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noshairx.gfbauth",
+            "certificate_hash": "a105521b39543d8c06ee66d4b44d715eccf4b867"
+          }
+        },
+        {
+          "client_id": "545726299512-lnq1lod11aup5vv15e7j12f04ursapjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeYz6w9llcdl7Zqeb-yoNBckN0_1YMXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545726299512-lnq1lod11aup5vv15e7j12f04ursapjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

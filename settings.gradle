@@ -1,0 +1,2 @@
+rootProject.name='GFBAUTH'
+include ':app'
